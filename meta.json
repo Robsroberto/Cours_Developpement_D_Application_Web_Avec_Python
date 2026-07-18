@@ -1,0 +1,57 @@
+{
+  "slug": "developpement-d-application-web-avec-python",
+  "title": "Créez des applications web dynamiques avec Python et Django",
+  "description": "Apprenez à développer des applications web modernes et sécurisées avec Python et le framework Django. Découvrez les bases de la programmation web et créez vos propres projets.",
+  "level": "debutant",
+  "icon": "🐍",
+  "tags": [
+    "Python",
+    "Django",
+    "Développement web"
+  ],
+  "price": 5000,
+  "free_chapters": 2,
+  "version": "1.0.0",
+  "chapters": [
+    {
+      "file": "01-introduction-au-developpement-web.md",
+      "title": "Introduction au développement web"
+    },
+    {
+      "file": "02-concepts-de-base-de-python.md",
+      "title": "Concepts de base de Python"
+    },
+    {
+      "file": "03-installation-et-configuration-de-django.md",
+      "title": "Installation et configuration de Django"
+    },
+    {
+      "file": "04-creation-de-modeles-et-de-vues-django.md",
+      "title": "Création de modèles et de vues Django"
+    },
+    {
+      "file": "05-templates-et-urls-django.md",
+      "title": "Templates et URLs Django"
+    },
+    {
+      "file": "06-formulaires-et-authentification-django.md",
+      "title": "Formulaires et authentification Django"
+    },
+    {
+      "file": "07-deploiement-d-application-web-django.md",
+      "title": "Déploiement d'application web Django"
+    },
+    {
+      "file": "08-optimisation-et-debugage-django.md",
+      "title": "Optimisation et debugage Django"
+    },
+    {
+      "file": "09-creation-d-un-projet-django-complet.md",
+      "title": "Création d'un projet Django complet"
+    },
+    {
+      "file": "10-maintenance-et-mise-a-jour-d-un-projet-django.md",
+      "title": "Maintenance et mise à jour d'un projet Django"
+    }
+  ]
+}
